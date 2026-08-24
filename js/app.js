@@ -181,7 +181,7 @@ async function renderDashboard(){
   const espera = turns?.filter(t => t.estado === 'En espera').length || 0;
   const llamados = turns?.filter(t => t.estado === 'Llamado').length || 0;
   const atendidos = turns?.filter(t => t.estado === 'Atendido').length || 0;
-  c.innerHTML = `<div class="topbar"><div><h1>Inicio</h1><p>Panel principal del Digiturno Jurídico en Supabase.</p></div></div>
+  c.innerHTML = `<div class="topbar"><div><h1>Inicio</h1><p>Panel Principal Digiturno Consultorio Jurídico.</p></div></div>
   <section class="grid stats-grid">
     <article class="stat-card"><span>Turnos hoy</span><strong>${total}</strong></article>
     <article class="stat-card"><span>En espera</span><strong>${espera}</strong></article>
