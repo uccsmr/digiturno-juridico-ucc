@@ -189,7 +189,7 @@ async function renderDashboard(){
     <article class="stat-card"><span>Atendidos</span><strong>${atendidos}</strong></article>
   </section>
   <section class="grid two-columns">
-    <article class="panel"><h2>Arquitectura</h2><p>Frontend en GitHub Pages + Supabase Auth, PostgreSQL y Realtime.</p></article>
+    <article class="panel"><h2>Arquitectura</h2><p>Dashboard Digiturno Consultorio Jurídico - Santa Marta.</p></article>
     <article class="panel"><h2>Accesos rápidos</h2><div class="action-row"><a class="btn btn-primary" href="#kiosco">Kiosco</a><a class="btn btn-secondary" href="#pantalla">Pantalla TV</a><a class="btn btn-outline" href="#asesor">Panel Asesor</a></div></article>
   </section>`;
 }
