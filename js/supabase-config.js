@@ -4,4 +4,4 @@
 
 export const SUPABASE_URL = 'https://smphpyjikygrfkeveryx.supabase.co';
 export const SUPABASE_ANON_KEY = 'sb_publishable_B8UY-6-K9GYSf8tnDZ6CnA_44xGxR6F';
-export const SUPABASE_CONFIG_READY = false;
+export const SUPABASE_CONFIG_READY = true;
